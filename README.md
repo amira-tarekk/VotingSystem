@@ -9,7 +9,8 @@ VotingSystem.UI: User interface to interact with the voting system.
 
 VotingSystem.Tests: Unit and integration tests to ensure the system works correctly.
 
-Features
+Features:
+
 Users can register and cast votes for an election.
 
 Results are tallied and displayed after voting ends.
