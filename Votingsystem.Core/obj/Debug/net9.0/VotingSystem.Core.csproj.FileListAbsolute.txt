@@ -1,0 +1,11 @@
+D:\dotnet\VotingSystem.Core\bin\Debug\net9.0\VotingSystem.Core.deps.json
+D:\dotnet\VotingSystem.Core\bin\Debug\net9.0\VotingSystem.Core.dll
+D:\dotnet\VotingSystem.Core\bin\Debug\net9.0\VotingSystem.Core.pdb
+D:\dotnet\VotingSystem.Core\obj\Debug\net9.0\VotingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\VotingSystem.Core\obj\Debug\net9.0\VotingSystem.Core.AssemblyInfoInputs.cache
+D:\dotnet\VotingSystem.Core\obj\Debug\net9.0\VotingSystem.Core.AssemblyInfo.cs
+D:\dotnet\VotingSystem.Core\obj\Debug\net9.0\VotingSystem.Core.csproj.CoreCompileInputs.cache
+D:\dotnet\VotingSystem.Core\obj\Debug\net9.0\VotingSystem.Core.dll
+D:\dotnet\VotingSystem.Core\obj\Debug\net9.0\refint\VotingSystem.Core.dll
+D:\dotnet\VotingSystem.Core\obj\Debug\net9.0\VotingSystem.Core.pdb
+D:\dotnet\VotingSystem.Core\obj\Debug\net9.0\ref\VotingSystem.Core.dll

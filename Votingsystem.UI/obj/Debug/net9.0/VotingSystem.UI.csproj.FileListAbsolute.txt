@@ -1,0 +1,14 @@
+D:\dotnet\VotingSystem.UI\bin\Debug\net9.0\VotingSystem.UI.exe
+D:\dotnet\VotingSystem.UI\bin\Debug\net9.0\VotingSystem.UI.deps.json
+D:\dotnet\VotingSystem.UI\bin\Debug\net9.0\VotingSystem.UI.runtimeconfig.json
+D:\dotnet\VotingSystem.UI\bin\Debug\net9.0\VotingSystem.UI.dll
+D:\dotnet\VotingSystem.UI\bin\Debug\net9.0\VotingSystem.UI.pdb
+D:\dotnet\VotingSystem.UI\obj\Debug\net9.0\VotingSystem.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\VotingSystem.UI\obj\Debug\net9.0\VotingSystem.UI.AssemblyInfoInputs.cache
+D:\dotnet\VotingSystem.UI\obj\Debug\net9.0\VotingSystem.UI.AssemblyInfo.cs
+D:\dotnet\VotingSystem.UI\obj\Debug\net9.0\VotingSystem.UI.csproj.CoreCompileInputs.cache
+D:\dotnet\VotingSystem.UI\obj\Debug\net9.0\VotingSystem.UI.dll
+D:\dotnet\VotingSystem.UI\obj\Debug\net9.0\refint\VotingSystem.UI.dll
+D:\dotnet\VotingSystem.UI\obj\Debug\net9.0\VotingSystem.UI.pdb
+D:\dotnet\VotingSystem.UI\obj\Debug\net9.0\VotingSystem.UI.genruntimeconfig.cache
+D:\dotnet\VotingSystem.UI\obj\Debug\net9.0\ref\VotingSystem.UI.dll
